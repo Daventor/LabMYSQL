@@ -1,1 +1,1 @@
-# LabMYSQL
+SELECT * FROM tabla
